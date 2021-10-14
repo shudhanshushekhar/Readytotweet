@@ -1,4 +1,4 @@
-# Django Twitter Clone by Redian Marku
+# Django Twitter Clone by Shudhanshu Shekhar
 
 Fully functional Django App that looks ecxatly like real Twitter.
 
