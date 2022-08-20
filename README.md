@@ -1,13 +1,13 @@
 # Django Twitter Clone by Shudhanshu Shekhar
 
-Fully functional Django App that looks ecxatly like real Twitter.
+Fully functional Django App that looks exactly like real Twitter.
 
 Demo Image:
 ![](TwitterDemo.png)
 
 ## Setup
 
-1. Git Clone the project with: ```git clone https://github.com/redianmarku/Django-Twitter-Clone.git```.
+1. Git Clone the project with: ```git clone https://github.com/shudhanshushekhar/Django-Twitter-Clone.git```.
 
 2. Move to the base directory: ```cd Django-Twitter-Clone```
 
